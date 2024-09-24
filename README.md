@@ -1,1 +1,6 @@
 # regex-test
+
+
+ExposedSomeTypeRepository
+
+JdbcSomeTypeRepository
